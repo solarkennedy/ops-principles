@@ -1,3 +1,7 @@
+---
+categories: [principles]
+---
+
 First to illustrate by example, here are some tools I think I've seen
 that show the 3OE principle versus some tools that have the "there can
 only be one" principle (highlander). In the end I'm going to use yelp

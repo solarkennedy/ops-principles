@@ -36,6 +36,9 @@ with links to further material and research.
 
 # Principles
 
+site.categories.CATEGORY
+
+
 ## [three_of_everything][Three of everything]
 
 ## [single_source_of_truth][Single source of truth]
@@ -49,7 +52,7 @@ with links to further material and research.
 Contibutions (additions or fixes) to this site are **very** welcome. We don't have all the
 answers, and we don't have all the right answers.
 
-Please feel free to open an issue or send us a pull request!
+Please feel free to [open an issue]({{ site.repository }}/issues/new) or send us a pull request!
 
 # License
 
