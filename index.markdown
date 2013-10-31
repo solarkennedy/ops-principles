@@ -2,7 +2,7 @@
 title: Ops Principles
 ---
 
-# What 
+# What
 
 What do we mean by 'principles'? A set of beliefs or philosophies that we
 use to guide our thinking on how to design systems, networks and software
@@ -21,7 +21,7 @@ choice about which principle(s) you are abandoning and exactly why.
 
 Because we care deeply about what we build and we want to be able to take pride in our work,
 having delivered the best practical and pragmatic solution possible to any particular problem,
-that will continue to be the best solution throughout the entire lifecycle of the system.
+which will continue to be the best solution throughout the entire lifecycle of the system.
 
 We've found ourselves continually explaining not just why
 we're proposing a specific technical solution in favour of another,
@@ -53,6 +53,9 @@ Contibutions (additions or fixes) to this site are **very** welcome. We don't ha
 answers, and we don't have all the right answers.
 
 Please feel free to [open an issue]({{ site.repository }}/issues/new) or send us a pull request!
+
+If you'd like to propose a new principle, we also have a [template][template]
+you can use to start writing and help you structure it.
 
 # License
 
