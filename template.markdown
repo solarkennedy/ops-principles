@@ -1,3 +1,9 @@
+---
+title: Template Principle
+category: principles
+layout: post
+---
+
 # Name
 
 Basic explanation of what this principle means.

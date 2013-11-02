@@ -58,9 +58,9 @@ with links to further material and research.
 Contibutions (additions or fixes) to this site are **very** welcome. We don't have all the
 answers, and we don't have all the right answers.
 
-Please feel free to [open an issue]({{ site.repository }}/issues/new) or send us a pull request!
+Please feel free to [open an issue]({{ site.repository }}/issues/new) or send us a [pull request]({{ site.repository }}/pulls/)!
 
-If you'd like to propose a new principle, we also have a [template](template)
+If you'd like to propose a new principle, we also have a [template](template.html)
 you can use to start writing and help you structure it.
 
 # License
