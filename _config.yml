@@ -6,6 +6,6 @@ repository: https://github.com/solarkennedy/ops-principles
 
 #url: http://
 
-permalink: categories
+permalink: /:categories/:title/
 
 exclude: [README.md]

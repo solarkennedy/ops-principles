@@ -37,19 +37,19 @@ with links to further material and research.
 # Principles
 
 {% for post in site.categories.principles  %}
- - [{{post.title}}]({{site.baseurl}}{{post.url}})
+ - [{{post.title}}]({{post.url}})
 {% endfor %}
 
 # Case Studies
 
-{% for post in site.categories."case-studies"  %}
- - [{{post.title}}]({{site.baseurl}}{{post.url}})
+{% for post in site.categories.case-studies  %}
+ - [{{post.title}}]({{post.url}})
 {% endfor %}
 
 # Recipies 
 
-{% for post in site.categories."recipies"  %}
- - [{{post.title}}]({{site.baseurl}}{{post.url}})
+{% for post in site.categories.recipies  %}
+ - [{{post.title}}]({{post.url}})
 {% endfor %}
 
 
