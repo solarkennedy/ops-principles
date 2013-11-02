@@ -1,1 +1,11 @@
+name: Ops Principles
+
+description: A collection of principles, recipies, and case studies to help build great systems
+
 repository: https://github.com/solarkennedy/ops-principles
+
+#url: http://
+
+permalink: categories
+
+exclude: [README.md]

@@ -1,5 +1,8 @@
 ---
-categories: [principles]
+layout: post
+title: Three of Everything
+category: principles
+
 ---
 
 First to illustrate by example, here are some tools I think I've seen

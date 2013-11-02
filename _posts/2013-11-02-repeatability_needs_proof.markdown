@@ -1,4 +1,7 @@
-# Repeatability needs proof
+---
+title: Repeatability Needs Proof
+category: principles
+---
 
 As sysadmins, we do lots of work to have documented systems and solutions
 that will last. This helps us personally 6 months later when we come

@@ -36,16 +36,22 @@ with links to further material and research.
 
 # Principles
 
-site.categories.CATEGORY
+{% for post in site.categories.principles  %}
+ - [{{post.title}}]({{site.baseurl}}{{post.url}})
+{% endfor %}
 
+# Case Studies
 
-## [three_of_everything][Three of everything]
+{% for post in site.categories."case-studies"  %}
+ - [{{post.title}}]({{site.baseurl}}{{post.url}})
+{% endfor %}
 
-## [single_source_of_truth][Single source of truth]
+# Recipies 
 
-## [repeatability_needs_proof][Repeatability needs to be proven]
+{% for post in site.categories."recipies"  %}
+ - [{{post.title}}]({{site.baseurl}}{{post.url}})
+{% endfor %}
 
-## [decide_on_data][Decide based on data]
 
 # Contributing
 
@@ -54,7 +60,7 @@ answers, and we don't have all the right answers.
 
 Please feel free to [open an issue]({{ site.repository }}/issues/new) or send us a pull request!
 
-If you'd like to propose a new principle, we also have a [template][template]
+If you'd like to propose a new principle, we also have a [template](template)
 you can use to start writing and help you structure it.
 
 # License
@@ -63,6 +69,6 @@ Creative Commons *FIXME*
 
 # Authors
 
-  * Kyle Anderson
-  * Tomas Doran
+ * Kyle Anderson
+ * Tomas Doran
 
