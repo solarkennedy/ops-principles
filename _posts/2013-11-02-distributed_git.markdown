@@ -1,4 +1,4 @@
 ---
-category: recipies
+category: recipes
 title: Distributed Git
 ---
