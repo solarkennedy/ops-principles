@@ -1,5 +1,6 @@
 ---
 title: Ops Principles
+layout: default
 ---
 
 # What
