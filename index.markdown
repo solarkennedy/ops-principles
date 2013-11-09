@@ -35,25 +35,6 @@ they're not univerally known or understood.
 This site aims to provide an easily digestable rationale behind them in one place,
 with links to further material and research.
 
-# Principles
-
-{% for post in site.categories.principles  %}
- - [{{post.title}}]({{post.url}})
-{% endfor %}
-
-# Case Studies
-
-{% for post in site.categories.case-studies  %}
- - [{{post.title}}]({{post.url}})
-{% endfor %}
-
-# Recipies 
-
-{% for post in site.categories.recipies  %}
- - [{{post.title}}]({{post.url}})
-{% endfor %}
-
-
 # Contributing
 
 Contibutions (additions or fixes) to this site are **very** welcome. We don't have all the
