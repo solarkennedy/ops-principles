@@ -1,8 +1,8 @@
 ---
-title: All Recipies 
+title: All Recipes 
 layout: default
 ---
 
-{% for post in site.categories.recipies %}
+{% for post in site.categories.recipes %}
  - [{{post.title}}]({{post.url}})
 {% endfor %}

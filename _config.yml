@@ -1,6 +1,6 @@
 # General Jekyll Config
 name: Ops Principles
-description: A collection of principles, recipies, and case studies to help build great systems
+description: A collection of principles, recipes, and case studies to help build great systems
 pygments: true
 url: http://example.com
 lsi: false
