@@ -1,18 +1,13 @@
 # General Jekyll Config
 name: Ops Principles
-description: A collection of principles, recipes, and case studies to help build great systems
+description: A collection of principles, recipes, and case studies to help build great systems!
 pygments: true
-url: http://example.com
+url: http://opsprincipl.es
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
-repository: https://github.com/solarkennedy/ops-principles
-# Theme customization - please change from the defaults!
+repository: https://github.com/solarkennedy/opsprincipl.es
 theme:
-  # Color for top bar, links, etc
   highlight_color: '#3498db'
 
-
 permalink: /:categories/:title/
-exclude: [README.md]
-
