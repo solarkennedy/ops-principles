@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: principle
 title: Three of Everything
-category: principles
+categories: principles
 ---
+
+# Description
 
 First to illustrate by example, here are some tools I think I've seen
 that show the 3OE principle versus some tools that have the "there can
@@ -10,15 +12,14 @@ only be one" principle (highlander). In the end I'm going to use yelp
 examples, but almost every place uses the same tools, its just between
 us I know we have the common context:
 
-3OE:
-Sensu
-Activemq
-Ceph
-Cassandra
-etcd
-bittorrent
-mongodb
-zookeeper
+* Sensu
+* Activemq
+* Ceph
+* Cassandra
+* etcd
+* bittorrent
+* mongodb
+* zookeeper
 
 Highlander:
 Nagios
