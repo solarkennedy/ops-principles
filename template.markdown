@@ -1,7 +1,7 @@
 ---
 title: Template Principle
 category: principles
-layout: post
+layout: principle
 ---
 
 # Name
@@ -11,8 +11,6 @@ Basic explanation of what this principle means.
 # Rationale
 
 Explanation of why this principle is important
-
-# Case studies
 
 # Study 1
 
@@ -24,6 +22,7 @@ problems and disadvantages which are a result of that.
 not follow the principle
 * Links for more if you want more practical advice on how to build
 things according to the principle.
+
 # Links
 
  * Link to other resources on the internet which explain this principle
