@@ -1,5 +1,5 @@
 ---
-title: Ops Principles
+title: OpsPrincipl.es
 layout: default
 ---
 
