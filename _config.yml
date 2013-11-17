@@ -8,6 +8,6 @@ exclude: [LICENSE, CNAME, README.md, .gitignore]
 
 repository: https://github.com/solarkennedy/opsprincipl.es
 theme:
-  highlight_color: '#3498db'
+  highlight_color: '#00007b'
 
 permalink: /:categories/:title/
