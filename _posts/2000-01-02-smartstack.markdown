@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: SmartStack
-categories: recipes
+category: recipes
 principles:
 - Three of Everything
 - Automatic Convergence

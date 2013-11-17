@@ -1,6 +1,6 @@
 ---
 title: Automatic Convergence
-categories: principles
+category: principles
 layout: principle
 ---
 

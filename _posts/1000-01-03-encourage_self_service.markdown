@@ -1,6 +1,6 @@
 ---
 title: Encourage Self-Service
-categories: principles
+category: principles
 layout: principle
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Distributed Git
-categories: recipes
+category: recipes
 principles:
 - Three of Everything
 ---

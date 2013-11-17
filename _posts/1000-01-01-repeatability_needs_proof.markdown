@@ -1,6 +1,6 @@
 ---
 title: Repeatability Needs Proof
-categories: principles
+category: principles
 layout: principle
 ---
 

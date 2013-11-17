@@ -1,7 +1,7 @@
 ---
 layout: principle
 title: Three of Everything
-categories: principles
+category: principles
 ---
 
 # Description
