@@ -1,5 +1,5 @@
 ---
-title: OpsPrincipl.es
+title: Main Page
 layout: default
 ---
 
@@ -44,13 +44,4 @@ Please feel free to [open an issue]({{ site.repository }}/issues/new) or send us
 
 If you'd like to propose a new principle, we also have a [template](template.html)
 you can use to start writing and help you structure it.
-
-# License
-
-Creative Commons *FIXME*
-
-# Authors
-
- * Kyle Anderson
- * Tomas Doran
 
