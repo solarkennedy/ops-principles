@@ -2,6 +2,7 @@
 layout: recipe
 title: SmartStack
 category: recipes
+published: true
 principles:
 - Three of Everything
 - Automatic Convergence

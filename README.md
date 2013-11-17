@@ -1,7 +1,15 @@
-[opsprincipl.es](http://opsprinciple.es)
+[OpsPrincipl.es](http://opsprinciple.es)
 ==============
 
-Welcome to the OpsPrincipl.es repo. 
+Welcome to the [OpsPrincipl.es](http://opsprinciple.es) repo. 
+
+How to Customize for Your Team
+=============================
+[Fork](https://github.com/solarkennedy/opsprincipl.es/fork) this repo, then add
+`published: false` to any principle your team does not want to adopt.
+
+Alternativly, set all of the principles to be `published: false` and set them
+to true one at a time as your team adopts them.
 
 Contributing
 ============

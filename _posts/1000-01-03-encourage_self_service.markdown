@@ -2,6 +2,7 @@
 title: Encourage Self-Service
 category: principles
 layout: principle
+published: true
 ---
 
 As any set of systems grows beyond a single person, one encounters the familiar

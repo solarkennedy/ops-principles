@@ -2,6 +2,7 @@
 title: Repeatability Needs Proof
 category: principles
 layout: principle
+published: true
 ---
 
 # Description
