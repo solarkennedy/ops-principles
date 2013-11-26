@@ -11,3 +11,4 @@ published: true
 - [Wikipedia Article](http://en.wikipedia.org/wiki/Single_Source_of_Truth)
 - [Ted Dziuba's Archived Article](https://web.archive.org/web/20120204171533/http://teddziuba.com/2011/06/most-important-concept-systems-design.html)
 - [Art of Unix Programming: SPOT Rule](http://www.catb.org/~esr/writings/taoup/html/ch04s02.html#spot_rule)
+
