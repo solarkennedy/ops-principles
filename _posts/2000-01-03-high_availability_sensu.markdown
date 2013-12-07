@@ -22,7 +22,7 @@ HAProxy load runs on both servers, and load balances all of the pieces. It has
 frontend and backends configured for RabbitMQ, Sensu API, Sensu Admin, and Redis
 
 ## RabbitMQ
-Two rabbitmq servers are setup in [http://www.rabbitmq.com/ha.html](mirrored mode).
+Two rabbitmq servers are setup in [mirrored mode](http://www.rabbitmq.com/ha.html).
 HAProxy detects the health of each and routes connections to them.
 
 ## Redis
